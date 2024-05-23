@@ -18,8 +18,8 @@ Welcome to Friendli Suite, the ultimate solution for serving generative AI model
 
 ## Building a RAG Chatbot with Friendli, MongoDB Atlas, and LangChain
 
-[06-b-rag-with-langchain.ipynb](06-b-rag-with-langchain.ipynb)
+[06-a-rag-with-langchain.ipynb](06-a-rag-with-langchain.ipynb)
 
 ## Building a RAG Chatbot with Friendli Suite Documents and Endpoints
 
-[06-a-rag-with-friendli-suite.ipynb](06-a-rag-with-friendli-suite.ipynb)
+[06-b-rag-with-friendli-suite.ipynb](06-b-rag-with-friendli-suite.ipynb)
