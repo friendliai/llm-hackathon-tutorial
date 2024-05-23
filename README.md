@@ -23,3 +23,7 @@ Welcome to Friendli Suite, the ultimate solution for serving generative AI model
 ## Building a RAG Chatbot with Friendli Suite Documents and Endpoints
 
 [06-b-rag-with-friendli-suite.ipynb](06-b-rag-with-friendli-suite.ipynb)
+
+## Function Calling with Chat API
+
+[07-function-calling.ipynb](07-function-calling.ipynb)
