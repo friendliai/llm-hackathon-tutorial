@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://docs.friendli.ai/img/logo.svg" width="30%" alt="Friendli Logo">
+  <img width="10%" alt="Friendli Logo" src="https://friendli.ai/icon.svg">
 </p>
 
 <h2><p align="center">LLM Hackathon with Friendli 🚀</p></h2>
